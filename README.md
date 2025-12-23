@@ -2,6 +2,11 @@
 
 > Extract data from invoices automatically using AI. Built by [Omega Matrix](https://omegamatrix.in).
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![React 18](https://img.shields.io/badge/react-18-blue.svg)](https://reactjs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)](https://fastapi.tiangolo.com/)
+
 ## 🚀 Live Demo
 
 Try it now: **[https://omegamatrix.in/demo/invoice](https://omegamatrix.in/demo/invoice)**
