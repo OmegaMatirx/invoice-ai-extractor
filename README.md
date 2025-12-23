@@ -2,8 +2,6 @@
 
 > Extract data from invoices automatically using AI. Built by [Omega Matrix](https://omegamatrix.in).
 
-![Demo](screenshot.png)
-
 ## 🚀 Live Demo
 
 Try it now: **[https://omegamatrix.in/demo/invoice](https://omegamatrix.in/demo/invoice)**
