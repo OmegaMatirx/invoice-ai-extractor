@@ -1,0 +1,42 @@
+INVOICE
+
+ElectroMart Supplies
+123 Commerce Street
+Chicago, IL 60601
+Phone: (312) 555-0123
+GST Number: GST-456789123
+
+SOLD TO:
+Office Solutions Inc.
+456 Business Blvd
+Milwaukee, WI 53202
+
+Invoice #: EM-2024-3421
+Date: 12/18/2024
+Due Date: 01/17/2025
+Sales Rep: John Smith
+
+ITEM                          QTY    UNIT PRICE    TOTAL
+Wireless Mouse (Model WM-100)  25      $29.99    $749.75
+USB-C Cables (6ft)            50      $12.50    $625.00
+Laptop Stands (Adjustable)    15      $45.00    $675.00
+Webcam HD 1080p               10      $89.99    $899.90
+Bluetooth Speakers            20      $34.95    $699.00
+Desk Organizers                8      $22.50    $180.00
+
+                           Subtotal: $3,828.65
+                           Discount:   $191.43 (5%)
+                        Net Subtotal: $3,637.22
+                        Shipping Fee:   $45.00
+                           Sales Tax:  $327.35 (9%)
+                              TOTAL: $4,009.57
+
+Payment Terms: Net 30
+Shipping Method: UPS Ground
+
+Bank Details:
+Chase Bank
+Account: 987654321
+Routing: 123456789
+
+Thank you for choosing ElectroMart!

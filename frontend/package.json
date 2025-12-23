@@ -1,0 +1,58 @@
+{
+  "name": "invoice-ai-extractor-frontend",
+  "version": "2.0.0",
+  "description": "AI-powered invoice data extraction frontend by Omega Matrix",
+  "author": "Omega Matrix Software Solutions <info@omegamatrix.in>",
+  "homepage": "https://omegamatrix.in",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omegamatrix/invoice-ai-extractor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/omegamatrix/invoice-ai-extractor/issues"
+  },
+  "keywords": [
+    "invoice",
+    "ai",
+    "ocr",
+    "document-processing",
+    "automation",
+    "react",
+    "omega-matrix"
+  ],
+  "main": "src/App.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "axios": "^1.4.0",
+    "react-dropzone": "^14.2.3",
+    "file-saver": "^2.0.5",
+    "react-hot-toast": "^2.4.1",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "license": "MIT"
+}

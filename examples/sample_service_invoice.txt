@@ -1,0 +1,39 @@
+PROFESSIONAL SERVICES INVOICE
+
+TechSolutions LLC
+456 Innovation Drive
+San Francisco, CA 94105
+Phone: (555) 123-4567
+Email: billing@techsolutions.com
+Tax ID: 12-3456789
+
+BILL TO:
+StartupCorp Inc.
+789 Startup Avenue
+Palo Alto, CA 94301
+
+Invoice Number: INV-2024-0156
+Invoice Date: December 20, 2024
+Due Date: January 19, 2025
+PO Number: PO-SC-2024-789
+Payment Terms: Net 30
+
+DESCRIPTION                           HOURS    RATE      AMOUNT
+Web Application Development            40      $150.00   $6,000.00
+Database Design & Implementation       16      $175.00   $2,800.00
+API Integration Services               24      $160.00   $3,840.00
+Quality Assurance Testing              12      $120.00   $1,440.00
+Project Management                      8      $140.00   $1,120.00
+
+                                    Subtotal: $15,200.00
+                                   Sales Tax:  $1,368.00 (9%)
+                                       Total: $16,568.00
+
+Payment Method: Wire Transfer
+Bank: First National Bank
+Account: 123456789
+Routing: 987654321
+
+Notes: Payment due within 30 days. Late payments subject to 1.5% monthly service charge.
+
+Thank you for your business!

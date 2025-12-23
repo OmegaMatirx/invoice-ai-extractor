@@ -1,0 +1,24 @@
+SAMPLE INVOICE
+
+ABC Company Inc.
+123 Business Street
+City, State 12345
+
+Invoice #: INV-2024-001
+Date: 12/15/2024
+
+Bill To:
+Customer Name
+456 Customer Ave
+City, State 67890
+
+Description                 Qty    Price    Total
+Web Development Services     1     $2,500   $2,500
+Domain Registration          1       $15      $15
+Hosting (1 year)            1      $120     $120
+
+                          Subtotal: $2,635
+                               Tax:   $263
+                             Total: $2,898
+
+Thank you for your business!
